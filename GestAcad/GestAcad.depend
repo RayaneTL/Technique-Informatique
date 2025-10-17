@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1760674732 source:c:\users\32472\downloads\gestacad\main.c
+	<stdio.h>
+
+1760675229 source:c:\users\32472\downloads\gestacad\phase1.c
+	<stdio.h>
+	<math.h>
+
+1760627584 source:c:\users\32472\downloads\gestacad\phase2.c
+	<stdio.h>
+
+1760627584 source:c:\users\32472\downloads\gestacad\phase3.c
+	<stdio.h>
+	<string.h>
+
+1760627584 source:c:\users\32472\downloads\gestacad\phase4.c
+	<stdio.h>
+	<string.h>
+
+1760627584 source:c:\users\32472\downloads\gestacad\phase5.c
+	<stdio.h>
+	<string.h>
+
+1760627584 source:c:\users\32472\downloads\gestacad\phase6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
